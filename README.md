@@ -1,5 +1,6 @@
 # keepy
 Keepy - Google Keep at your tray!
+
 Electron App example
 
 <p align="center">
