@@ -1,5 +1,6 @@
 # keepy
 Keepy - Google Keep at your tray!
+Electron App example
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rafajaques/keepy/master/screenshot.png" alt="ScreenShot"/>
